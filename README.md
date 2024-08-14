@@ -104,4 +104,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Acknowledgments
 
 -The datasets used in this project were obtained from Kaggle and NHTSA.
--Special thanks to our project team members: Nicole Kyine Lain, Kimberly Bonilla, Mary Mackin, and Duygu Ozsoy.
+-Special thanks to our project team members: Nicole Kyine Lain, Kimberly Bonilla, Mary Mackin, Aye Nyein Mon, and Duygu Ozsoy.
