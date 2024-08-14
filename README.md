@@ -41,7 +41,7 @@ Data Visualization:
 
 The following steps were undertaken:
 
--Model Definition: A K-means model with three clusters was defined and fitted to the scaled data.
+-Model Definition: A K-means model with three clusters was defined and fitted to the scaled data based on Lat, Lng, Severity, and ZipCode.
 -Prediction: The model predicted cluster assignments for each data point, which were then added as a new column labeled "Collisions" in the DataFrame.
 Visualization:
 
